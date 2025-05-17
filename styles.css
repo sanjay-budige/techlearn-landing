@@ -19,7 +19,6 @@ body {
   line-height: 1.6;
 }
 
-/* Header */
 .header {
   background: var(--primary);
   padding: 20px 40px;
@@ -44,7 +43,6 @@ body {
   color: var(--highlight);
 }
 
-/* Hero Section */
 .hero {
   background: linear-gradient(to right, #070054, #101064);
   color: var(--white);
@@ -99,7 +97,6 @@ body {
   max-width: 400px;
 }
 
-/* Extra Cards Section */
 .extra-cards {
   background: var(--accent);
   padding: 60px 20px;
@@ -143,7 +140,6 @@ body {
   color: #333;
 }
 
-/* Features */
 .features {
   background: var(--accent);
   padding: 60px 20px;
@@ -187,7 +183,6 @@ body {
   margin-bottom: 10px;
 }
 
-/* Footer */
 .footer {
   background: var(--primary);
   color: var(--white);
